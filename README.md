@@ -47,37 +47,6 @@ Building modern web applications with JavaScript technologies and learning softw
 
 ---
 
-## Current Project
-
-### E-Ticket Event Management System
-
-A full-stack web application for event organizers and attendees.
-
-#### Main Features
-
-- Authentication & Authorization
-- Event Management
-- Ticket Booking
-- Role Based Access Control
-- Payment Integration
-- Media Upload Management
-- Dashboard Analytics
-
-#### Tech Used
-
-```txt
-React
-TypeScript
-Node.js
-Express.js
-MongoDB
-JWT
-Cloudinary
-REST API
-```
-
----
-
 ## Currently Learning
 
 ```txt
