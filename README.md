@@ -6,12 +6,6 @@
 
 Building modern web applications with JavaScript technologies and learning software engineering through real projects.
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Adrianzky10&show_icons=true&hide_border=true" />
-
-</div>
-
 ---
 
 ## About Me
