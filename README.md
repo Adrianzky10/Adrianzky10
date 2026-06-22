@@ -6,6 +6,8 @@
 
 Building modern web applications with JavaScript technologies and learning software engineering through real projects.
 
+</div>
+
 ---
 
 ## About Me
