@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Adrian Dwi 👋
-
-### Full Stack JavaScript Developer
+![Adrian Dwi](img/github-header-banner.png)
 
 Building modern web applications with JavaScript technologies and learning software engineering through real projects.
 
